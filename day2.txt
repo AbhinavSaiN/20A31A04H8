@@ -1,0 +1,30 @@
+separator   sep=' '
+is used to separate variables and values
+
+print(x,end=' ')
+is used to code the below line at the same line
+
+x=input("enter value:").split
+is used to input multiple values to assign individual and if use specific character in between split operator it splits data accordingly
+
+control statements:
+if(a==b):
+     print("")
+else:
+     print("")
+
+must use : after else and if 
+
+for statements:
+for i in range(a,b,c):
+     print(i)
+
+where a is starting value
+      b is ending n value
+      c is how much shift
+for 1 to n range we get 1 to n-1 as result ****
+
+by using '''     ''' we can negate a code
+by using # at start of line we can negate a line
+
+terinary code
