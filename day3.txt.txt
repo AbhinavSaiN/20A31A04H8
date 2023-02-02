@@ -1,0 +1,33 @@
+write a program to perform general swapping by using circumflux--(^)
+
+len([1,2,3,6,8])
+concatination=[1,2,3]+[4,5,6]
+              [1,2,3,4,5,6]
+
+repitition "vijay" "sai"*10
+   in====a in [a,e,i,o,u]
+   not in=== b not in [a,e,i,o,u]
+
+given a maximum of four digit to the base 17 as input. output its decimal value
+
+test case:
+input:1A
+output:27
+
+write a python programme to make a list of cubes till the value of n
+
+test case:
+n=10
+[0,1,8,27,........1000]
+
+jonny while doing his home work asks mother that some of the number between 1 to 1000 are not happy numbers find them
+
+hint: split the digits of number and square them to add and follow the pattern until we reach 1 as result we get happy number.
+
+
+write a python programme to find the absolute value for the difference between even and the odd of given number
+
+test case:
+1 1223
+2 4567
+3 123456789
