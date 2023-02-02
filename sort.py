@@ -1,0 +1,12 @@
+num=[12,-2,-33,84,5,6,87,8,99,10]
+#print(sorted(num))
+#print(any(num))
+num.append(0)
+print(num)
+print(num.index(5))
+num.insert(5,100)
+print(num)
+num.remove(-2)
+print(num)
+num.reverse()
+print(num)
